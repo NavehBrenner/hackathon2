@@ -1,0 +1,12 @@
+SCREEN_HEIGHT = 600
+SCREEN_WIDTH = 800
+RUNNING = True
+EXIT = False
+
+
+# ------ TASKS ------- #
+COMPLETED = "Comp"
+PENDIGN = "Pending"
+
+POSITION_LEFT = 20
+POSITION_TOP = 100
