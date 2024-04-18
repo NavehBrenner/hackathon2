@@ -1,5 +1,5 @@
 import pygame
-from constants import *
+from script.constants import *
 
 
 class Task:
